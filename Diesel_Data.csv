@@ -1,0 +1,46 @@
+Date,EQPT.Name,EQPT.DoorNum,EQPT.Type,EQPT.FMC,EQPT.Actual,EQPT.Expected,EQPT.Hours,EQPT.Job,JOB.DPR
+2018-04-22,Hyundai 480,25,Excavator,Y,34.45,32,22,1,
+2018-04-22,Tata Hitachi 650,9,Excavator,N,39.91,38,21,1,
+2018-04-22,Bharat Benz,108,Tipper,N,13.39,12,23,1,
+2018-04-22,Volvo,98,Tipper,N,15.58,14.4,21,1,0.57
+2018-04-22,Hyundai 480,28,Excavator,Y,41.45,32,22,2,
+2018-04-22,Tata Hitachi 650,12,Excavator,N,37.98,38,21,2,
+2018-04-22,Bharat Benz,118,Tipper,N,12.21,12,22,2,
+2018-04-22,Volvo,128,Tipper,N,13.52,14.4,22,2,
+2018-04-22,Scania,97,Tipper,N,14.51,12.4,22,2,0.53
+2018-04-22,SDLG,19,Loader,N,16.42,15,22,NA,
+2018-04-22,SDLG,57,Grader,N,17.87,15,22,NA,
+2018-04-22,Lee Boy,198,Drill,N,15.12,16.4,22,NA,
+2018-04-22,Komatsu,67,Dozer,N,16.28,12,22,NA,
+2018-04-22,XUV,NA,Car,N,13.12,16.4,0,NA,
+2018-04-22,Bolero,NA,Jeep,N,12.28,10.2,0,NA,0.65
+2018-04-23,Hyundai 480,25,Excavator,Y,34.45,32,22,1,
+2018-04-23,Tata Hitachi 650,9,Excavator,N,39.91,38,21,1,
+2018-04-23,Bharat Benz,108,Tipper,N,13.39,12,23,1,
+2018-04-23,Volvo,98,Tipper,N,14.58,14.4,21,1,0.55
+2018-04-23,Hyundai 480,28,Excavator,Y,42.45,32,22,2,
+2018-04-23,Tata Hitachi 650,12,Excavator,N,37.98,38,21,2,
+2018-04-23,Bharat Benz,118,Tipper,N,12.21,12,22,2,
+2018-04-23,Volvo,128,Tipper,N,13.52,14.4,22,2,
+2018-04-23,Scania,97,Tipper,N,14.51,12.4,22,2,0.51
+2018-04-23,SDLG,19,Loader,N,16.42,15,22,NA,
+2018-04-23,SDLG,57,Grader,N,17.87,15,22,NA,
+2018-04-23,Lee Boy,198,Drill,N,15.12,16.4,22,NA,
+2018-04-23,Komatsu,67,Dozer,N,16.28,12,22,NA,
+2018-04-23,XUV,NA,Car,N,13.12,16.4,0,NA,
+2018-04-23,Bolero,NA,Jeep,N,12.28,10.2,0,NA,0.62
+2018-04-24,Hyundai 480,25,Excavator,Y,34.45,32,22,1,
+2018-04-24,Tata Hitachi 650,9,Excavator,N,39.91,38,21,1,
+2018-04-24,Bharat Benz,108,Tipper,N,12.39,12,23,1,
+2018-04-24,Volvo,98,Tipper,N,15.58,14.4,21,1,0.51
+2018-04-24,Hyundai 480,28,Excavator,Y,40.45,32,22,2,
+2018-04-24,Tata Hitachi 650,12,Excavator,N,37.98,38,21,2,
+2018-04-24,Bharat Benz,118,Tipper,N,12.21,12,22,2,
+2018-04-24,Volvo,128,Tipper,N,13.52,14.4,22,2,
+2018-04-24,Scania,97,Tipper,N,14.51,12.4,22,2,0.54
+2018-04-24,SDLG,19,Loader,N,17.42,15,22,NA,
+2018-04-24,SDLG,57,Grader,N,17.87,15,22,NA,
+2018-04-24,Lee Boy,198,Drill,N,15.12,16.4,22,NA,
+2018-04-24,Komatsu,67,Dozer,N,18.28,12,22,NA,
+2018-04-24,XUV,NA,Car,N,13.12,16.4,0,NA,
+2018-04-24,Bolero,NA,Jeep,N,12.28,10.2,0,NA,0.6
